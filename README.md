@@ -1,0 +1,2 @@
+# UcgeninAlaniniHesaplayanProgram
+Üçgenin Alanını Hesaplayan Program
